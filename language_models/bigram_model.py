@@ -1,3 +1,13 @@
+"""
+['Alice', 'doubtfully', 'as', 'she', 'noticed', 'with', 'the', 'time', 'there', 's', 'pause.', 'The', 'Hatter', 'replied.', 'Yes', 'but', 'it', 'went', 'on', 'the', 
+'Duchess', 'it', 'would', 'not', 'that', 'continued', 'the', 'distant', 'sobs', 'to', 'herself', 'up', 'I', 'breathe', 'It', 's', 'Pat', 'Pat', 'Where', 'are', 
+'tarts', 'All', 'this', 'morning', 'said', 'the', 'sides', 'of', 'life', 'and', 'broke', 'off', 'to', 'by', 'her.', 'I', 'must', 'be', 'more', 'I', 'suppose', 
+'Dinah', 'll', 'have', 'just', 'upset', 'the', 'other', 'guinea', 'pig', 'cheered', 'and', 'under', 'her', 'unfortunate', 'guests', 'mostly', 'said', 'Alice.', 
+'Nothing', 'whatever', 'happens.', 'What', 's', 'a', 'melancholy', 'words', 'DRINK', 'ME', 'and', 'every', 'now', 'and', 'tremulous', 'sound.', 'That', 'he', 
+'replied.', 'We', 'must', 'be']
+"""
+
+
 import re
 import os
 import random
